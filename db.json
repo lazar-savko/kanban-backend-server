@@ -71,45 +71,6 @@
       "board": "Platform Launch"
     },
     {
-      "title": "wefwef",
-      "description": "wefwef",
-      "status": "doing",
-      "board": "Platform Launch",
-      "id": 12
-    },
-    {
-      "title": "",
-      "description": "",
-      "status": "doing",
-      "board": "Platform Launch",
-      "id": 13
-    },
-    {
-      "status": "done",
-      "id": 14
-    },
-    {
-      "title": "test",
-      "description": "test",
-      "status": "doing",
-      "board": "Platform Launch",
-      "id": 15
-    },
-    {
-      "title": "test10",
-      "description": "test10",
-      "status": "done",
-      "board": "Roadmap",
-      "id": 16
-    },
-    {
-      "title": "test - 12",
-      "description": "test15",
-      "status": "doing",
-      "board": "Platform Launch",
-      "id": 17
-    },
-    {
       "title": "roadmap",
       "description": "roadmap",
       "status": "doing",
@@ -117,47 +78,11 @@
       "id": 18
     },
     {
-      "title": "roadmaprrr",
-      "description": "roadmaprr",
-      "status": "done",
-      "board": "Roadmap",
-      "id": 19
-    },
-    {
       "title": "task title",
       "description": "task desc",
       "status": "done",
       "board": "Roadmap",
       "id": 20
-    },
-    {
-      "title": "test1001",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "status": "todo",
-      "board": "Roadmap",
-      "id": 21
-    },
-    {
-      "title": "test new func",
-      "description": "form.addEventListener(\"submit\", (event) => {\n  event.preventDefault();\n\n\n  createNewTask({\n    \"title\": titleInput.value,\n    \"description\": descInput.value,\n    \"status\": ddl.value,\n    \"board\": selectedBoard\n  });\n})",
-      "status": "todo",
-      "board": "Platform Launch",
-      "id": 22
-    },
-    {
-      "title": "אקדא1010",
-      "description": "׳קכ׳קכ׳קכ",
-      "status": "doing",
-      "board": "Roadmap",
-      "id": 23
-    },
-    {
-      "title": "test1",
-      "description": "test",
-      "status": "doing",
-      "board": "New Board Test",
-      "id": 23
     }
-    
   ]
 }
