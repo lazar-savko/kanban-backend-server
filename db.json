@@ -315,5 +315,25 @@
       "board": "Roadmap",
       "id": 20
     }
+  ],
+  "users": [
+    {
+      "email": "johndoe@mail.com",
+      "password": "123456",
+      "role": "admin",
+      "id": 1
+    },
+     {
+      "email": "janesmith@mail.com",
+      "password": "starrynight",
+      "role": "user",
+      "id": 2
+    },
+     {
+      "email": "baskinrobbins@mail.com",
+      "password": "icecream123",
+      "role": "user",
+      "id": 3
+    }
   ]
 }
